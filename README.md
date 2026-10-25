@@ -95,3 +95,8 @@ A comprehensive, verified collection of my achievements in mathematics, computer
 <div align="center">
   <i>⭐ Feel free to check out my repositories and connect with me!</i>
 </div>
+
+---
+
+## 🖼️ Official Certificates & Awards Gallery
+All my real physical certificates, awards, and diplomas are securely archived and viewable directly in this repository.
